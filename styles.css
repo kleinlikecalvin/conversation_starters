@@ -29,6 +29,7 @@ body > * {
   cursor: pointer;
   border: none;
   border-radius: 20px;
+  color: black;
 }
 .prompt-trigger:hover {
   opacity: 0.9;
