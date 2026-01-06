@@ -30,6 +30,7 @@ body > * {
   border: none;
   border-radius: 20px;
   color: black;
+  -webkit-tap-highlight-color: transparent;
 }
 .prompt-trigger:hover {
   opacity: 0.9;
