@@ -43,4 +43,7 @@ body > * {
   body {
     flex-direction: column;
   }
+  body > * {
+    font-size: 18px;
+  }
 }
