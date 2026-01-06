@@ -29,7 +29,7 @@ body > * {
   cursor: pointer;
   border: none;
   border-radius: 20px;
-  color: black;
+  color: black !important;
   -webkit-tap-highlight-color: transparent;
 }
 .prompt-trigger:hover {
